@@ -7,3 +7,13 @@ c:\users\vggarcia\documents\visual studio 2017\Projects\Api-Fiap-Bluemix\Api-Fia
 c:\users\vggarcia\documents\visual studio 2017\Projects\Api-Fiap-Bluemix\Api-Fiap-Bluemix\obj\Debug\netcoreapp1.1\Api-Fiap-Bluemix.dll
 c:\users\vggarcia\documents\visual studio 2017\Projects\Api-Fiap-Bluemix\Api-Fiap-Bluemix\obj\Debug\netcoreapp1.1\Api-Fiap-Bluemix.pdb
 c:\users\vggarcia\documents\visual studio 2017\Projects\Api-Fiap-Bluemix\Api-Fiap-Bluemix\obj\Debug\netcoreapp1.1\Api-Fiap-Bluemix.csprojResolveAssemblyReference.cache
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\bin\Debug\netcoreapp1.1\Api-Fiap-Bluemix.deps.json
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\bin\Debug\netcoreapp1.1\Api-Fiap-Bluemix.runtimeconfig.json
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\bin\Debug\netcoreapp1.1\Api-Fiap-Bluemix.runtimeconfig.dev.json
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\bin\Debug\netcoreapp1.1\Api-Fiap-Bluemix.dll
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\bin\Debug\netcoreapp1.1\Api-Fiap-Bluemix.pdb
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\obj\Debug\netcoreapp1.1\Api-Fiap-Bluemix.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\obj\Debug\netcoreapp1.1\Api-Fiap-Bluemix.AssemblyInfo.cs
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\obj\Debug\netcoreapp1.1\Api-Fiap-Bluemix.dll
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\obj\Debug\netcoreapp1.1\Api-Fiap-Bluemix.pdb
+C:\Users\vitor\Documents\FIAP-AM-2017\API-BLUEMIX-FIAP\Api-Fiap-Bluemix\obj\Debug\netcoreapp1.1\Api-Fiap-Bluemix.csprojResolveAssemblyReference.cache
